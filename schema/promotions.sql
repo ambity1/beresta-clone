@@ -1,0 +1,1 @@
+INSERT INTO beresta.promotions (id, name, alias, description, link) VALUES (1, 'Супер выгодная акция', 'super-vygodnaia-akciia', 'Купи две - получи одну', 'http://localhost:8000/catalog/dacnye-tualety');
